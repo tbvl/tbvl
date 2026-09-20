@@ -21,5 +21,3 @@ Most of what I write lives in client repositories or in the private [manyfold-dk
 ## Contact
 
 [manyfold.dk](https://manyfold.dk) · [LinkedIn](https://www.linkedin.com/in/tbvl/) · thomas@manyfold.dk
-
-Available for new engagements from January 2027.
