@@ -16,7 +16,7 @@ I also run a production platform of my own on European infrastructure. It is Kub
 
 ## About the repositories here
 
-Most of what I write lives in client repositories or in the private [manyfold-dk](https://github.com/manyfold-dk) organisation, so this profile is quiet by design. The public forks are tools I run and occasionally patch. Architecture decisions and write-ups from the platform are published on manyfold.dk.
+Most of what I write lives in client repositories or in the [manyfold-dk](https://github.com/manyfold-dk) organisation, where the platform's running configuration stays private. What can be shared is: estate-baseline holds the tooling that keeps a set of repositories to one standard — conformance checks against a version manifest, generated ADR indexes, a publish-check secret scanner and a mailbox for handoffs between coding agents — all failing CI on drift rather than warning. More will follow as it is scrubbed for release. The public forks are tools I run and occasionally patch. Architecture decisions and write-ups from the platform are published on [manyfold.dk](https://manyfold.dk).
 
 ## Contact
 
