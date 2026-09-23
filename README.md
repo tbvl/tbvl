@@ -17,9 +17,11 @@ How delivery, agentic operations and tenant isolation work is drawn out on the [
 
 ## Recent work
 
-- **UFST, Danish Tax Agency (2026):** production operations for high-volume citizen letter generation on AWS.
-- **ATP (2026):** Kubernetes platform engineering for the national pension provider.
-- **DSB, Danish State Railways (2021–2026):** tech lead and architect on ticketing systems handling more than 2 million transactions a day with sub-150 ms responses; built the Azure platform for the microservices as code.
+- Production operations for high-volume citizen letter generation on AWS.
+- Kubernetes platform engineering for the national pension provider.
+- Tech lead and architect on ticketing systems handling more than 2 million transactions a day with sub-150 ms responses; built the Azure platform for the microservices as code.
+
+See details at [LinkedIn](https://www.linkedin.com/in/tbvl/.
 
 ## About the repositories here
 
